@@ -25,6 +25,12 @@ Once the server is running, you can access Synapse locally at:
 http://localhost:3000
 ```
 
+## Deployment
+To deploy the project, use the deployment script located at `scripts/deploy.sh`. Ensure that the necessary environment variables `DEPLOY_ENV` and `DEPLOY_TARGET` are set before running the script.
+
+## System Health Monitoring
+The system health monitoring tool is available at the `/health` endpoint. It provides information about the system's uptime, CPU usage, memory usage, and load average.
+
 ## Contributing
 Guidelines on how to contribute to the project.
 
