@@ -13,6 +13,18 @@ Synapse is designed to seamlessly merge AI prowess with human ingenuity, creatin
 ## Getting Started
 Instructions on how to set up the project.
 
+## Running the Server Locally
+To run the server locally, use the following command:
+```
+node src/index.js
+```
+
+## Accessing Synapse Locally
+Once the server is running, you can access Synapse locally at:
+```
+http://localhost:3000
+```
+
 ## Contributing
 Guidelines on how to contribute to the project.
 
