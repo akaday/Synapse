@@ -17,4 +17,4 @@ Instructions on how to set up the project.
 Guidelines on how to contribute to the project.
 
 ## License
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
